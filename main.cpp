@@ -3,4 +3,5 @@
 int main()
 {
 	Run();
+	Sleep(5000);
 }
